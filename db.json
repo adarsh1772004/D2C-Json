@@ -1,0 +1,46 @@
+{
+  "Kolkata": [
+      {
+          "id":1,
+          "name":"Adarsh",
+          "charges":700
+        },
+        {
+            "id":2,
+            "name":"Sandip",
+            "charges":700
+          },
+          {
+            "id":3,
+            "name":"Sanjay",
+            "charges":700
+          },
+          {
+            "id":4,
+            "name":"Binay",
+            "charges":700
+          }
+    ],
+    "Bangalore": [
+      {
+          "id":1,
+          "name":"Adarsh",
+          "charges":700
+        },
+        {
+            "id":2,
+            "name":"Sandip",
+            "charges":700
+          },
+          {
+            "id":3,
+            "name":"Sanjay",
+            "charges":700
+          },
+          {
+            "id":4,
+            "name":"Binay",
+            "charges":700
+          }
+    ]
+}
